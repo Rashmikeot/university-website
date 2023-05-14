@@ -144,4 +144,4 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 import os
-STATICFILES_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
+# STATICFILES_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
